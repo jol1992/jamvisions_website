@@ -10,7 +10,6 @@ const Wrapper = styled.div<{ isShowing: boolean }>`
   border-radius: 5px;
   p {
     font-size: 24px;
-    max-width: 45ch;
   }
 `;
 
